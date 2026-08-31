@@ -1,0 +1,9 @@
+butterfly
+cat
+cow
+dog
+elephant
+horse
+sheep
+spider
+squirrel
